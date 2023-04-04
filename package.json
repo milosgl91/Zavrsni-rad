@@ -1,0 +1,22 @@
+{
+  "name": "zavrsni-rad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milosgl91/Zavrsni-rad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milosgl91/Zavrsni-rad/issues"
+  },
+  "homepage": "https://github.com/milosgl91/Zavrsni-rad#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
